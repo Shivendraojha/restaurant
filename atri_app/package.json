@@ -1,11 +1,14 @@
-{
+{"homepage": "http://Shivendraojha.github.io/restra",
   "name": "atri-react-app-template",
   "version": "0.0.0",
   "private": "true",
-  "homepage": "http://Shivendraojha.github.io/restra",
+  
   "scripts": {
-    "predeploy": "npm run build",
-   "deploy": "gh-pages -d build",
+   
+  "start": "react-scripts start",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
+  "build": "react-scripts build",
     
     "buildApp": "atri-react-app-build-app",
     "buildAppNode": "atri-react-app-build-server",
