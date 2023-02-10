@@ -9,7 +9,5 @@
   },
   "publicUrlAssetMap": {
     "/app-assets": "..\\assets"
-  },
-  "organizationName": "Shivendraojha",
-  "projectName": "restaurant"
+  }
 }

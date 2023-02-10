@@ -1,20 +1,14 @@
-{"homepage": "http://Shivendraojha.github.io/restra",
+{ "homepage":"http://Shivendraojha.github.io/restra",
   "name": "atri-react-app-template",
   "version": "0.0.0",
   "private": "true",
-  
   "scripts": {
-   
-  "start": "react-scripts start",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-  "build": "react-scripts build",
-    
     "buildApp": "atri-react-app-build-app",
     "buildAppNode": "atri-react-app-build-server",
     "buildServer": "cd server && tsc",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "build": "yarn run buildApp && yarn run buildAppNode",
-    
     "devServer": "node dist/server/index.js --dev",
     "server": "node dist/server/index.js",
     "dev": "atri-react-app-dev-server"
@@ -22,6 +16,7 @@
   "dependencies": {
     "@atrilabs/app-scripts": "^0.0.78",
     "@atrilabs/core": "^0.0.78",
+    "gh-pages":"^3.2.3",
     "chokidar": "^3.5.3",
     "http-proxy-middleware": "^2.0.6",
     "react": "18.0.0",
