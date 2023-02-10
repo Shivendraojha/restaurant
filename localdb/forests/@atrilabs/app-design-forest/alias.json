@@ -1,0 +1,13 @@
+{
+  "Flex": 60,
+  "TextBox": 207,
+  "Button": 4,
+  "Dropdown": 1,
+  "Image": 67,
+  "Div": 34,
+  "Input": 10,
+  "Icon": 1,
+  "AreaChart": 1,
+  "LineChart": 1,
+  "Step": 1
+}
