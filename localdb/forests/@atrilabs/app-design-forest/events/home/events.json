@@ -163633,5 +163633,93 @@
       }
     },
     "id": "1688d273-1f64-4386-a25a-392293dd6da8"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "2px"
+        }
+      }
+    },
+    "id": "9b7f418a-75c7-4e12-88b7-77d317aaa9b3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "20px"
+        }
+      }
+    },
+    "id": "9b7f418a-75c7-4e12-88b7-77d317aaa9b3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "4px"
+        }
+      }
+    },
+    "id": "b36e217b-8f92-497b-8382-c5feb4be20d6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "40px"
+        }
+      }
+    },
+    "id": "b36e217b-8f92-497b-8382-c5feb4be20d6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "2px"
+        }
+      }
+    },
+    "id": "9b7f418a-75c7-4e12-88b7-77d317aaa9b3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": ""
+        }
+      }
+    },
+    "id": "9b7f418a-75c7-4e12-88b7-77d317aaa9b3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "4px"
+        }
+      }
+    },
+    "id": "9b7f418a-75c7-4e12-88b7-77d317aaa9b3"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/cssTree.js",
+    "slice": {
+      "property": {
+        "styles": {
+          "borderRadius": "40px"
+        }
+      }
+    },
+    "id": "9b7f418a-75c7-4e12-88b7-77d317aaa9b3"
   }
 ]
